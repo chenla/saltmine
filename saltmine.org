@@ -1,0 +1,26 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE:  Saltmine
+#+AUTHOR: Brad Collins
+#+EMAIL: brad@chenla.la
+#+PROPERTY: header-args    :results drawer  :tangle saltmine.el
+
+#+STARTUP: showall
+#+PROPERTY: filename
+#+TOC: headlines 4  
+
+:PROPERTIES:
+  :CUSTOM_ID: _()
+  :Created:   2017-05-13T19:04@Prek Leap (11.642600N-104.919210W)
+  :ID:        043d9fec-33da-4208-b4f6-82014bcd4c67
+  :VER:       547949123.831317403
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:EFU2-5083
+  :END:
+
+  :TREE:
+  :UF:
+  :BTI:  [[bmf:burr]] [[bmf:work]]
+  :BT:
+  :RT:
+  :END:
+
