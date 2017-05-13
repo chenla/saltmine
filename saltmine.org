@@ -17,10 +17,79 @@
   :BXID:      proj:EFU2-5083
   :END:
 
-  :TREE:
+:TREE:
   :UF:
   :BTI:  [[bmf:burr]] [[bmf:work]]
   :BT:
   :RT:
   :END:
+
+
+This will be a literate program....  do we create a new repo
+for it?  and should that be burs or saltmine?  say salt4e
+since this will work locally as well as being a front end
+for an external db it's close enough to what mu is doing
+that I salt4e would be cool....
+
+define a new org protocol  'bmf'
+
+  :BXID:      proj:GRO44-6794
+
+look up 'proj' in LINK and expand which gives us a local path to the
+tspace index for the bxid.
+
+The index is very simple:
+
+  ("GR044-6794.546735262.598557129" 
+   "Prolegomena_References" 
+   "22d37595-e4ec-4b44-87c2-73e96ed916eb")
+
+Search list for GR044-6794 which will return all triples for GR044-6794.
+
+Then sort by the car cdr and take the top one which will be most recent.
+
+Finally grab the id for top one which, is then used to go to the burr
+using the org id function.
+
+So:
+
+   bmf:/proj/GR044-6794
+
+Goes to the latest version of the burr.  But you can also link to a
+specific version by appending the version/time stamp.
+
+   bmf:/proj/GR044-6794.546735262.598557129
+
+--------
+
+Then we will need:
+
+  - function for indexing all of the bxids
+
+  - version control -- which means you commit a burr which
+    copies the old version into an archive and then gives
+    a new id to the new version.  
+
+    Do we want a commit string?  If we want to integrate the
+    concept of literate version control -- where the comit
+    string is a burr in its own right -- and can be a commit
+    string, gloss, or scholia all of which are tied to
+    specific versions, but glosses and scholia can be moved
+    to new versions -- which will make the version process
+    more complex, but this is the only way we can make this
+    work -
+
+    scholia can be inline, block or burr level -- so burr
+    level scholia don't need to migrate, they are comments
+    on the whole burr, but anything pointing to block or
+    inline content must be tied to specific versions.
+
+  - helm interface for looking up burrs by bxid and
+    custom_id should be able to insert custom_id or bxid at
+    point...
+
+
+
+Once this basic lookup is done we can start working on the
+external database 
 
