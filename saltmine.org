@@ -31,7 +31,7 @@ protocol that will make it possible to link between things using links
 to bxids in org files.  Salt4e will also provide a very basic version
 control system.
 
-* Notes
+* Salt4e Notes
 
 
 define a new org protocol  'bmf'
@@ -49,7 +49,7 @@ The index is very simple:
 
 Search list for GR044-6794 which will return all triples for GR044-6794.
 
-Then sort by the car cdr and take the top one which will be most recent.
+Then sort by the car and take the top one which will be most recent.
 
 Finally grab the id for top one which, is then used to go to the burr
 using the org id function.
@@ -91,7 +91,7 @@ Then we will need:
     custom_id should be able to insert custom_id or bxid at
     point...
 
-
+* Saltmine Server
 
 Once this basic lookup is done we can start working on the
 external database 
