@@ -9,10 +9,10 @@
 #+TOC: headlines 4  
 
 :PROPERTIES:
-  :CUSTOM_ID: _()
+  :CUSTOM_ID: Saltmine_(software)
   :Created:   2017-05-13T19:04@Prek Leap (11.642600N-104.919210W)
   :ID:        043d9fec-33da-4208-b4f6-82014bcd4c67
-  :VER:       547949123.831317403
+  :STAMP:     547949123.831317403
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:EFU2-5083
   :END:
