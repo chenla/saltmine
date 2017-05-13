@@ -17,19 +17,22 @@
   :BXID:      proj:EFU2-5083
   :END:
 
-:TREE:
-  :UF:
-  :BTI:  [[bmf:burr]] [[bmf:work]]
-  :BT:
-  :RT:
-  :END:
+* Introduction
 
+This will be a literate program called saltmine, with a companion
+emacs application called salt4e.
 
-This will be a literate program....  do we create a new repo
-for it?  and should that be burs or saltmine?  say salt4e
-since this will work locally as well as being a front end
-for an external db it's close enough to what mu is doing
-that I salt4e would be cool....
+Saltmine will either build it's own or use an existing graph-database
+that will index bmf orgmode files.
+
+Salt4e (saltmine 4 emacs) will provide a helm interface to lookup
+content in saltmine, keep a local index of all ids used by an orgmode
+protocol that will make it possible to link between things using links
+to bxids in org files.  Salt4e will also provide a very basic version
+control system.
+
+* Notes
+
 
 define a new org protocol  'bmf'
 
