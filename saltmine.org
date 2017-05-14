@@ -1,17 +1,7 @@
 #+TITLE:  Saltmine
 #+AUTHOR: Brad Collins
 #+EMAIL: brad@chenla.la
-
 #+PROPERTY: header-args    :results drawer  :tangle saltmine.el
-
-:PROPERTIES:
-  :CUSTOM_ID: Saltmine_(software)
-  :Created:   2017-05-13T19:04@Prek Leap (11.642600N-104.919210W)
-  :ID:        043d9fec-33da-4208-b4f6-82014bcd4c67
-  :STAMP:     547949123.831317403
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:EFU2-5083
-  :END:
 
 * Introduction
 
@@ -132,5 +122,6 @@ external database
 (provide 'saltmine)
 
 ;;; saltmine.el ends here
+
 #+end_src
 
