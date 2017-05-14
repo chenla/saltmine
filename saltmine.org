@@ -1,12 +1,8 @@
-#   -*- mode: org; fill-column: 60 -*-
 #+TITLE:  Saltmine
 #+AUTHOR: Brad Collins
 #+EMAIL: brad@chenla.la
-#+PROPERTY: header-args    :results drawer  :tangle saltmine.el
 
-#+STARTUP: showall
-#+PROPERTY: filename
-#+TOC: headlines 4  
+#+PROPERTY: header-args    :results drawer  :tangle saltmine.el
 
 :PROPERTIES:
   :CUSTOM_ID: Saltmine_(software)
@@ -100,7 +96,7 @@ external database
 * File Header
 
 
-#+begin_src emacs-lisp
+#+begin_src emacs-lisp :tangle saltmine.el
 ;;; saltmine.el  -- 
 ;;; Copyright (C) 2017 Brad Collins
 
@@ -125,14 +121,14 @@ external database
 
 ;;; Commentary:
 ;;
+
 #+end_src
 
-#+RESULTS:
 
 
 * Provide and Finish
 
-#+begin_src emacs-lisp
+#+begin_src emacs-lisp :tangle saltmine.el
 (provide 'saltmine)
 
 ;;; saltmine.el ends here
