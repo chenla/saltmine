@@ -25,3 +25,25 @@
 
 * Introduction
 
+
+combine epub, bit-torrent, block chain, version control, and
+the web stack.
+
+propose this as an 18 month experiment -- everyone chips in
+a bit of money and people -- end it all with a summit in
+Phnom Penh....
+
+  - o'reilly
+  - mozilla 
+  - brewster kahle
+  - long now
+  - tim berners lee
+
+at the moment I think this goes against the business models for both
+amazon and apple and perhaps google who are so tied to the existing
+state of content and copyright and cloud that this will not be
+something they will be interested in.  but then I don't know and as I
+talk to people about this I may be surprised -- Page's heart is (or at
+least was) in the right place with google books.
+
+
