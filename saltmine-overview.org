@@ -1,0 +1,27 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Saltmine Overview
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/saltmine/saltmine-overview.org
+  :Created:   2017-05-26T17:36@Prek Leap (11.642600N-104.919210W)
+  :ID:        82d92c66-ce35-4cfc-94cd-c48cd6579b53
+  :VER:       549067083.896693001
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:XRC7-4777
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
