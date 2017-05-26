@@ -54,5 +54,13 @@ githubchart -u deerpig ./img/contrib.svg
 
 * Introduction
 
+ - Functional Requirements
 
+ - Stack
+   - ePub3
+   - bit-torrent
+   - graph database
+   - org-mode
+   - search interface
 
+ - [[saltmine.org]] (literate program)
