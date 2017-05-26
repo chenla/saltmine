@@ -56,10 +56,11 @@ githubchart -u deerpig ./img/contrib.svg
 
  - Functional Requirements
 
- - Stack
+ - Stack Components
    - [[./saltmine-overview.org][Overview]]
    - [[./saltmine-epub3.org][ePub3]]
    - bit-torrent
+   - blockchain
    - graph database
    - org-mode
    - search interface
