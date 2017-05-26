@@ -57,7 +57,7 @@ githubchart -u deerpig ./img/contrib.svg
  - Functional Requirements
 
  - Stack
-   - ePub3
+   - [[./saltmine-epub3.org][ePub3]]
    - bit-torrent
    - graph database
    - org-mode
