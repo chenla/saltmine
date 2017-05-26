@@ -25,3 +25,236 @@
 
 * Introduction
 
+  - [[https://github.com/futurepress/epub.js/][futurepress/epub.js]]  Enhanced eBooks in the browser | Github
+  - [[http://epubzone.org/][EPUBZone - The Community and News Site for all things EPUB]]
+  - [[http://readium.org/][Readium]] | Home
+  - [[https://github.com/readium][Readium]] | GitHub
+  - [[https://github.com/ncbi/PubReader][ncbi/PubReader: A new way to view journal articles]]
+  - [[https://medium.com/@sandersk/responsive-ebook-design-a-primer-8bba01328219][Responsive Ebook Design: A Primer – Sanders Kleinfeld]] | Medium
+  - [[https://www.ibm.com/developerworks/web/library/x-richlayoutepub/index.html][Create rich-layout publications in EPUB 3 with HTML5, CSS3, and
+    MathML]] | IBM DeveloperWorks
+  - What is EPUB3, Accessible EPUB3, EPUB3 Best Practices | Matt
+    Gerrish (O'Reily Books)
+
+I've been looking into EPUB3 today to see what that can do
+for us, and I was pleasantly surprised that EPUB is such a
+powerful, simple, open format.  The great thing about epub
+is that it leverages the web stack without using /web
+browsers/.  There is more structure than the web, which is
+all good to me.  I'm now exploring if it can be used for
+large form-factor books -- these wouldn't open on mobile,
+but that's not such a bad thing.  The sequential nature of
+epubs, and that it is designed to be paged, not scrolled, is
+very powerful.
+
+EPUBs are portable -- they can be served from a server, but
+work just as well as a file that can be copied and stored
+and passed around....  We can extend the spec to include bmf
+index and metadata and wiki-source and then it can propagate
+through the network via something like bit-torrent, and then
+be indexed and woven into your bramble -- not just stored
+locally as a zipped file on disk.
+
+In fact, by using css media, we could even have versions
+designed to run in text-based displays like an emacs app...
+
+Looked at [[http://vivliostyle.com/en/][vivliostyle]] and their platform is impressive, but
+all proprietary, and sadly CSS Regions has not been adopted
+by browsers.  In many respects what they are building is a
+lot of what I would like, but again it's not open so it's a
+non-starter.
+
+One concern is that epubs are outside of the web in most
+respects because they aren't being served from a web server
+that a crawler can index.  I don't know if you can link to
+something inside an epub either...  These are important
+issues.
+
+Thinking back to my early work on BMF, I had originally
+thought that a burr would be a collection of files zipped up
+-- like a NeXT app.  In the end it seemed more trouble than
+it was worth -- but in a decentralized system, where you are
+replicatig stuff all over the place and you don't want to
+put too much computational load -- converting, processing
+etc so that you have to generate all that stuff every time
+you get a file.....  the whole zip approach does make sense.
+
+It's impossible not to overstate the importance of
+distributed version control for a decentralized distributed
+web.
+
+Literate EPUB....  If an epub included source, then we could
+switch between the epub and source and update the document.
+But since we can make external calls from within epub we
+have the possibility of documents being able to update
+themselves -- perhaps that means that there is a source
+container that is running the code and then from the viewer
+client we can connect to the container and dynamically
+update.
+
+The Web is still the WEB, images, video and audio have
+become part of the web because they can be embedded.  Other
+things like email, discussion forums and social media are
+Web Apps -- also part of the Web.  But books in the form of
+pdf, epub and mobi etc are not part of the web and they
+still are not suited to conversion into web pages.
+
+The web is a scroll, while books are a codex.  The codex
+handily beat the scroll before, and I don't see why it can't
+again.  But problems like reflowing, and variable screen
+sizes are holding the codex back.
+
+We need digital texts that can be annotated, and the cloud
+model makes this difficult.  Books, however, are portable,
+and copies are immutable which is important for annotation
+and to maintain distributed backup copies to ensure that
+texts survive.
+
+Cloud based annotations have been attempted -- Amazon syncs
+kindle last page read, annotations and notes across devices.
+But it's all in the cloud on their servers in formats which
+we are not privy to.
+
+When you buy a book and underline words and phrases and
+scribble glosses and notes in the margins, that book becomes
+an extension of all of the the things you have written.  You
+can't divorce the notes from the book.  Syncing is nice, as
+far as it goes -- but you should be able to link to those
+notes -- and quote passages from the book together with the
+notes.  You should be able to create different sets of notes
+for different times that you read the book.  But all of this
+goes beyond what commercial publishers and even some authors
+want to allow you to do, even though this is very firmly
+within the scope of the concept of fair use.
+
+That's why a distributed system that is based on portable
+ebooks is the only way to go -- but you need to fork the
+book, not to change the text, but to annotate it and then to
+keep those changes in version control.
+
+Annotation is not just highlighting, but adding links,
+scholia, and glossa.  We need group annotation, and to be
+able to share annotations with other people.
+
+Copright and the twisted and sick ways it has been extended
+must go.  We then need to replace it with the right of
+attribution, and the right to fork at which time it becomes
+a new work, but you can not change other people's work.
+
+So if we start putting all of this together we can see the
+beginnings of a document oriented distributed Web.
+
+Each of us has a personal library -- that we keep and
+control, not just have a licence to use in limited ways.
+
+Each work is a zip file that includes a html5 human readable
+version of the work.  It will also have the source code in a
+wiki language that can rebuild the work with additional
+annotations.  The original work, if it's not your own, will
+have a hash that tells you if it has been tampered with.
+The zip file will also have an index, of the work, which is
+then merged into your own library index.  So every book you
+read is woven into your library.
+
+If you are on another device and make get another copy of
+the work and annotate it, you can then later sync and merge
+the two, and weave everything into your library.
+
+And once we have integrated literate computing, programing
+and devops along with business and educational processes,
+then we can really say goodbye to the ubiquitious /Office
+Suite/.  And that is important because word processing files
+and to a lesser extent pdfs (which are just portable word
+processing files) can go the way of the Dodo.
+
+This won't happen until we have a new generation of web and
+desktop editing apps that the great unwashed masses can
+point and grunt at, but once people grok the new paradigm
+and get used to some of it's restrictions and see how
+powerful it is, it will be adopted.  Most of what people
+have to learn is that documents have structure and that
+structure has semantic meaning and without it their
+documents aren't very useful.
+
+I could see epub readers growing enormously in power, and if
+browsers don't build this into the browser, they could
+become as important as the browser.
+
+The other side of this will be the search interface which
+will be an hybrid local and cloud search interface.
+
+---
+
+For the three columns and an icon layout that I've been
+working on for so long, I still have the challenge of
+creating all of that material.  Writing it for each page
+isn't going to work.  But what if all the other material is
+imported from other burrs at different scopes, and
+specifically, different LOCs?  So each item in the note
+columns will be taken from burrs:
+
+  - SN (Scope Note)
+  - TL;DR (which is the old BMF MicroNote)
+
+But we only have four colors, black, gray blue, red:
+
+  - Black (#000000;) :: narrative commentary
+  - Gray  (#4A4A4A;) :: what (person, concept, thing)
+  - Red   (#990000;) :: works 
+  - Blue  (#0033CC;) :: where, when (place, event)
+
+Our only way forward with chenla publications will be to use
+fixed-layout:
+
+  - [[http://www.idpf.org/epub/fxl/][EPUB 3 Fixed Layout Documents]] | IDPF
+  - [[https://www.slideshare.net/cwehrung/epub-3-html-5-css-3-fixedlayout][ePub 3, HTML 5 & CSS 3 (+ Fixed-Layout)]] | Slideshare
+
+#+begin_quote
+Fixed-layout eBooks are a popular format for eBooks today,
+especially for childrens eBooks and for complex non-fiction
+like cookbooks and textbooks. Unlike standard eBook files,
+fixed layout eBooks can keep the same page layout and design
+as their print book counterparts, and can sometimes contain
+enhancements that make them more interesting and
+interactive. Fixed Layout eBooks are not PDFs, and they
+should never be created from flat images of every page. They
+are fully-functional HTML-based eBook files in every way,
+however, the specific styles and layouts used in these files
+are not re-flowable like standard eBook files.
+
+-- [[https://ebookarchitects.com/learn-about-ebooks/non-fiction-fixed-layout/][Non-Fiction Fixed Layout]] | eBook Architects
+#+end_quote
+
+Having done a first pass google on fix-layout ePub3, I
+believe this will get us to where we need to be...  If this
+works out the way I hope, then we can use the epub version
+as the normative version of a text.
+
+I still have a /lot/ of questions...  can we link to content
+in another epub?  That will be crucial...
+
+---
+
+combine epub, bit-torrent, block chain, version control, and
+the web stack.
+
+propose this as an 18 month experiment -- everyone chips in
+a bit of money and people -- end it all with a summit in
+Phnom Penh....
+
+  - o'reilly
+  - mozilla 
+  - brewster kahle
+  - long now
+  - tim berners lee
+
+at the moment I think this goes against the business models
+for both amazon and apple and perhaps google who are so tied
+to the existing state of content and copyright and cloud
+that this will not be something they will be interested in.
+but then I don't know and as I talk to people about this I
+may be surprised -- Page's heart is in the right place with
+google books.
+
+
+
