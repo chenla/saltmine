@@ -1,7 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
 * Saltmine Platform
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/saltmine/README.org
+  :Created:   2017-06-22T11:38@Prek Leap (11.642600N-104.919210W)
+  :ID:        74d3816c-f187-440a-9b84-30c83ccef204
+  :VER:       551378381.245617683
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:CTK2-2461
+  :Category:  deploy
+  :Entity:    readme
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
