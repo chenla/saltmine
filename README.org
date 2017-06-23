@@ -10,15 +10,15 @@
   :VER:       551378381.245617683
   :GEO:       48P-491193-1287029-15
   :BXID:      proj:CTK2-2461
-  :Category:  deploy
-  :Entity:    readme
+  :Class:     deploy
+  :Type:      readme
   :Status:    wip 
   :Licence:   MIT/CC BY-SA 4.0
   :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
-[[https://img.shields.io/badge/category-deploy-0072B2.svg?style=flat-square]]
-[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/class-deploy-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
