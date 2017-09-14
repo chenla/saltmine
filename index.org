@@ -1,58 +1,26 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Saltmine
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/saltmine/index.org
-  :Created:   2017-05-26T17:19@Prek Leap (11.642600N-104.919210W)
-  :ID:        37750c3c-7a38-4f82-b90f-fa160b5f8422
-  :VER:       549066016.390693650
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:FJV2-6615
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
+#+TITLE:   Saltmine | TOC
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:      /home/deerpig/proj/chenla/saltmine/index.org
+:Name:      /home/deerpig/proj/chenla/saltmine/index.org
+:Created:   2017-05-26T17:19@Prek Leap (11.642600N-104.919210W)
+:VER:       558650756.444397916
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:IVC8-1377
+:Class:     primer
+:Entity:    toc
+:Status:    wip 
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
-
-* About these pages
-
-
-Project Pages for Saltmine Platform
-
-* Recent Activity
-
-Recent change activity on http://github.com/chenla/projects
-
-#+BEGIN_SRC sh :exports results :results silent
-githubchart -u deerpig ./img/contrib.svg
-#+END_SRC
-
-#+RESULTS:
-
-[[./img/contrib.svg]]
-
-#+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
-#+HTML:  <span>Less</span>
-#+HTML:   <ul class="legend">
-#+HTML:     <li style="background-color: #eee"></li>
-#+HTML:     <li style="background-color: #d6e685"></li>
-#+HTML:     <li style="background-color: #8cc665"></li>
-#+HTML:     <li style="background-color: #44a340"></li>
-#+HTML:     <li style="background-color: #1e6823"></li>
-#+HTML:   </ul>
-#+HTML:  <span>More</span>
-#+HTML: </div>
-
-* Introduction
+* Saltmine | Table of Contents
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
  - Functional Requirements
 
