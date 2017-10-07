@@ -34,3 +34,30 @@
    - search interface
 
  - [[saltmine.org]] (literate program)
+
+----
+
+Lay it out:
+
+- Everything is both a node and a holon
+
+- Nodes are the atomic unit in the system
+
+- Every node can be thought of as a git repo, and like IPFS,
+  are funcionally equivilent to and interchangable with a
+  git repo.
+
+- Every holon is a node called a topicspace (tspace) which
+  is a map of the nodes that comprises it using a special
+  map filetype that includes ID's and defines the
+  relationships between nodes.  There is no one cannonical
+  tspace, there may be multiple maps that are completely
+  separate, overlap or nest within other tspaces.  The
+  namespaces that map over nodes are not required to be
+  ecorded in the nodes themelves.
+
+- Nodes have their own namespace, and are broken into
+  records which each have a unique label and global ID
+  within that namespace.
+
+-
