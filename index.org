@@ -54,10 +54,67 @@ Lay it out:
   tspace, there may be multiple maps that are completely
   separate, overlap or nest within other tspaces.  The
   namespaces that map over nodes are not required to be
-  ecorded in the nodes themelves.
+  ecorded in the nodes themselves.
 
 - Nodes have their own namespace, and are broken into
   records which each have a unique label and global ID
   within that namespace.
 
--
+- Every node and holon must generate an index that maps all
+  records and the relationships between each other every
+  time the is a commit, and those indexes must sync whenever
+  the node is merged with another clone of the repo.
+
+- changes made to the repo over time constitute a causal
+  chain which is linked to any other node it links to in a
+  holon.
+
+- every node must belong to a special topicspace called a
+  role, the role, in turn, must belong to a top level
+  topicspace called an identity.
+
+- a collection of copies of topicspaces owned by a role is
+  called a horcrux, which in theory must be able to merge
+  and resolve into a single role topicspace.
+
+- unlike git repos which work at the file level, a node may
+  include pointers to things in the physical world including
+  energy generated, consumed, places, materials, objects,
+  creatures and machines/devices.  Persons are represented
+  as roles
+  
+  When a thing is added, the record or repo representing it
+  is sort of an inventory.  The challenge is finding a way
+  to ensure that things are not added twice.
+
+  This is done through causal chains -- you might be able to
+  initally create more than one record for something, but
+  when you use it, sell it or something else with it it will
+  have to go through a verification process when the object
+  changes hands.  Inspection of an item on delivery takes
+  place and only when the transaction is merged into the
+  repo can payment take place.
+
+  In crypto curencies this is where global blockchains come
+  in to ensure that everything happens correctly.  The
+  problem is that this requires huge amount of resources to
+  process and confirm.  I don't think it will scale the way
+  the alt-coin folks think it will.  The chain is slow and
+  expensive.
+
+Causal chains will get very complex, very quickly -- once
+the system hits a critical number of items and transactions,
+the causal chains will be extremely difficult to fake.  As
+objects move through the system it builds up a causal
+chain.  Verifying that the chain has not been compromised,
+could happen on a system level.  The more transactions that
+happen without incident, the higher the reputation of the
+role making the tansaction.  
+
+This could then be backed by an organization who guarantee
+transactions.  Yes, that is a credit system like Visa.  But
+it doesn't have to be a commercial operation like Visa.
+Cooperative banks could be established to do this, or any of
+a number of other mechanisms.
+
+
