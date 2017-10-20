@@ -118,3 +118,18 @@ Cooperative banks could be established to do this, or any of
 a number of other mechanisms.
 
 
+Taking people out of the loop completely is somehow wrong.
+The assumptions behind it are wrong.  Trustless anything is
+not a good thing.
+
+The problem is that our civilization has scaled beyond it's
+ability for its institutions to keep fraud in check.  Most
+crime that is not commited by serial criminals happens
+because the opportunity to do it is in front of people and
+easy to do with little perceived risk, or consequences even
+if they are caught.
+
+In fact its the institutions who are now a large part of the
+problem.  Banks are suppoed to be trustworthy and they
+certainly are not today.  Banks and credit systems should
+not be for profit.
