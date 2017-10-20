@@ -36,7 +36,7 @@ So, like our reimagined Bento Box, Saltmine is no longer
 simply code, but a set of specifications, data structures
 and requirements for delivering a broad set of defined
 functionality.  We will likely have a set of uniform APIs,
-but other than that it won't matter what actually software
+but other than that it won't matter what actual software
 is used to get the job done.  It could be something fast and
 close to the the metal in C or Rust, or fantastically rich
 code written in Lisp.  It could be written in javascript
