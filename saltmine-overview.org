@@ -39,7 +39,7 @@ functionality.  We will likely have a set of uniform APIs,
 but other than that it won't matter what actually software
 is used to get the job done.  It could be something fast and
 close to the the metal in C or Rust, or fantastically rich
-that is written in Lisp.  It could be written in javascript
+code written in Lisp.  It could be written in javascript
 or perl or whatever.  It can be off the shelf applications
 that are used to provide different parts of the stack -- it
 doesn't matter so long as it get's the job done.
