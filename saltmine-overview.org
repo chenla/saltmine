@@ -44,6 +44,23 @@ or perl or whatever.  It can be off the shelf applications
 that are used to provide different parts of the stack -- it
 doesn't matter so long as it get's the job done.
 
+saltmine compiles to an archival programing language as well
+as a binary
 
 
+---
 
+d9d is the network built out of nodes using saltmine and
+bento.  
+
+users never connect directly to the internet.
+
+d9d spins up containers as close to you as possible, that
+then allow you to pick up any device and use it as if it
+were your own device.
+
+d9d knows who and where you are and builds a proxy profile
+of false roles, it takes info from many different users to
+create these roles which are used to access anything outside
+of d9d.  this provides users with a plausible face to the
+internet. 
