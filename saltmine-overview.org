@@ -44,23 +44,44 @@ or perl or whatever.  It can be off the shelf applications
 that are used to provide different parts of the stack -- it
 doesn't matter so long as it get's the job done.
 
-saltmine compiles to an archival programing language as well
-as a binary
-
-
 ---
 
 d9d is the network built out of nodes using saltmine and
 bento.  
 
-users never connect directly to the internet.
-
 d9d spins up containers as close to you as possible, that
 then allow you to pick up any device and use it as if it
 were your own device.
 
-d9d knows who and where you are and builds a proxy profile
-of false roles, it takes info from many different users to
-create these roles which are used to access anything outside
-of d9d.  this provides users with a plausible face to the
-internet. 
+what I'm still unsure about is if we can use IPFS -- but
+ipfs is file storage that distributes files across a
+network.
+
+saltmine is processing, storage, and messaging 
+
+but it's also about breaking up collections of information
+into different overlapping pieces, sometimes scattering
+them, sometimes consolidating them.
+
+could we treat containers just like files in IPFS, but each
+node that stores something can then fire it up as a
+container....
+
+  - knows what you are
+  - knows where you are
+  - knows who you are
+  - knows what role you are in
+
+  - collects surrounding context
+    - what you are doing
+    - environment, light, temp, humidity, air pressure,
+      gravity, noise.
+    - identifies who is around you
+    - searches for information related to all of these things
+
+
+  - looks for devices near you to run on
+  - looks for displays and interface devices near you
+
+  - keeps track of how many copies of everything there are
+  - 
