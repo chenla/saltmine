@@ -135,7 +135,7 @@ then the other nodes it is connected to might need to be
 changed as well.
 
 it won't only be external things that trigger reevaluation,
-it will also be changed how we use our own graphs.  Every
+it will also change when we use our own graphs.  Every
 time you view something that information will recome part of
 the graph as well.
 
@@ -145,6 +145,57 @@ relationship and since these things are not static and
 change over time those changes must be part of version
 control so you can literally rewind a state of mind to any
 moment in the past.....
+
+I keep wondering about magnitude -- I understand certainty,
+but magnitude.... I mean, in a sense it makes sense --
+perhaps the magnitude of a sound -- was it loud or soft? was
+a smell strong or faint.  these correspond directly to
+survival on the savannah.  but does this also pertain to
+things like a feeling -- there is magnitude for love,
+beauty, fear, anger, hate so perhaps magnitude largely
+records the memory of the reaction of the limbic system.
+
+In /Ancillary Justice/ there was a nice line about why ships
+had feelings -- that without feelings it would be exhausting
+to have to deal with everything that is weighted the same.
+And there is value to placing weight to things that may be
+more valuable than to other things.  It's a type of filter
+that also acts as a motivator and recording such things in
+memory is an important part of our memories.... am I
+projecting too much onto magnitude here?  perhaps, but the
+idea makes a lot of sense.  remembering images, sounds,
+events, objects etc without remembering the corresponding
+feeling associated with that memory isn't very useful.
+
+how to incorporate this into metadata is another story -- is
+it part of the record, or part of the index?  when you share
+a memory with someone, do you share the feeling as well, or
+are you just sharing the image or sound or shape or whatever
+-- afterall those are not your feelings and you will have
+different feelings associated with the information in that
+node when you experience it because it will be in a
+different context.
+
+different parts of the brain are responsible for processing
+different kinds of feelings -- so there is more than memory
+here, there is no small amount of machinery in addition to
+the limbic engine -- a lot of feelings are a lot more
+complex and abstract than the limbic system provides.
+
+
+but magnitude only tells the strength of something, not what
+it is -- if something is beautiful, you are seeing a pattern
+that part of your brain recognizes as and members as being
+beautiful and then triggers some kind of chemical response
+that reinforces that feeling.
+
+so in additional to simple thesaurus relationships we will
+need limbic relationships as well and defined patterns that
+trigger recognition of them -- which then triggers behaviors
+to pay attention to something, or see it as a threat, or as
+attractive.
+
+
 
 
 
