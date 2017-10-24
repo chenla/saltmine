@@ -134,4 +134,9 @@ propagate throughout the graph so if you change one node,
 then the other nodes it is connected to might need to be
 changed as well.
 
+it won't only be external things that trigger reevaluation,
+it will also be changed how we use our own graphs.  Every
+time you view something that information will recome part of
+the graph as well.
+
 
