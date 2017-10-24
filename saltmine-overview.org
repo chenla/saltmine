@@ -85,3 +85,28 @@ container....
 
   - keeps track of how many copies of everything there are
   - 
+
+---
+
+#+begin_comment
+Still can't seem to get my groove back....
+#+end_comment
+
+
+if we think of everything in saltmine as if it were an ERP
+process -- everything in the process of becoming something
+else.....  what does that even mean? 
+
+but at the same time everything is also becomes part of the
+map, which is a DAG but the graph as map is just how we pull
+together context that triggers and informs processes, and a
+map of a process is a thread running through the map.
+
+maps represent holonic structures, and a process is just a
+segment of a causal chain that propagates through the map,
+changing it like light propagating across a light cone.
+
+rule sets determine how we filter and see maps in different
+ways, and find things, nodes, patterns etc.  but they also
+govern how processes play out -- a rule set defines intent,
+or at the least reflects past experience.
