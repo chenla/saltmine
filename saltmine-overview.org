@@ -123,4 +123,15 @@ knows the same thing, for example, is useful information --
 so is knowing that something you know is missing in another
 graph. 
 
+a horcrux is constantly integrating new information into its
+graph, this is the process of establishing links that weave
+new information in the form of relationships.  Most of this
+will have to be automated through rule sets which will
+constantly need to adapt as they do so.  So indexing is not
+enough, each item has to be evaluated to see how it fits
+into the graph, and then those new relationships will
+propagate throughout the graph so if you change one node,
+then the other nodes it is connected to might need to be
+changed as well.
+
 
