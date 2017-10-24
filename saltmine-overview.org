@@ -139,4 +139,14 @@ it will also be changed how we use our own graphs.  Every
 time you view something that information will recome part of
 the graph as well.
 
+and like the brain we need to include more than a
+relationship, but also the magnitude and and weight of the
+relationship and since these things are not static and
+change over time those changes must be part of version
+control so you can literally rewind a state of mind to any
+moment in the past.....
+
+
+
+
 
