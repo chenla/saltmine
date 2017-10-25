@@ -192,8 +192,62 @@ that reinforces that feeling.
 so in additional to simple thesaurus relationships we will
 need limbic relationships as well and defined patterns that
 trigger recognition of them -- which then triggers behaviors
-to pay attention to something, or see it as a threat, or as
-attractive.
+to pay attention to something, or see it as a threat, or
+attractive etc.
+
+/spatial memory/ 
+
+short term memory
+
+working memory:
+
+  - phonological loop :: consists of two parts: a
+       /short-term phonological store/ with auditory memory
+       traces that rapidly decay and an /articulatory
+       rehearsal component/.
+  - visuo-spatial sketchpad :: a store that holds visual
+       information for manipulation. -- 7 plus or minus 2.
+    - The /visual cache/ stores information about form and color.
+    - The /inner scribe/ deals with spatial and movement information.
+  - central executive ::  a set of cognitive processes for
+       the cognitive control of behavior: selecting and
+       successfully monitoring behaviors that facilitate the
+       attainment of chosen goals. Executive functions
+       include basic cognitive processes such as attentional
+       control, cognitive inhibition, inhibitory control,
+       working memory, and cognitive flexibility. Higher
+       order executive functions require the simultaneous
+       use of multiple basic executive functions and include
+       planning and fluid intelligence (i.e., reasoning and
+       problem solving).
+  - episodic buffer ::  is a third slave system, dedicated
+       to linking information across domains to form
+       integrated units of visual, spatial, and verbal
+       information with time sequencing (or chronological
+       ordering), such as the memory of a story or a movie
+       scene. The episodic buffer is also assumed to have
+       links to long-term memory and semantic meaning.
+
+
+this leads us to how to develop /episodic-autobiographical
+memory/ (EAM) which I would assume to be somewhat
+self-contained networks that link together all the different
+elements that make up a "story" of something that happened.
+
+
+In humans, memories are not static, they change over time as
+we experience new things and draw new conclusions about what
+we remember, and as newer memories supercede or over write
+parts of episodic memories.
+
+It is important for our memories to change over time, but it
+would be useful if we could rewind memories to past times so
+that we could see the surrounding context of the original
+memory -- this would help correct memory drift over long
+periods of time.
+
+
+
 
 
 
