@@ -193,7 +193,7 @@ so in additional to simple thesaurus relationships we will
 need limbic relationships as well and defined patterns that
 trigger recognition of them -- which then triggers behaviors
 to pay attention to something, or see it as a threat, or
-attractive etc.
+attraction etc.
 
 /spatial memory/ 
 
@@ -247,8 +247,47 @@ memory -- this would help correct memory drift over long
 periods of time.
 
 
+-------
 
 
+
+ - Arts        -- what you do
+ - Sciences    -- what you know
+
+ - Otium       -- inner
+ - Negotium    -- outer
+
+ - Liberal Arts
+   - grammer   --
+   - logic     --
+   - rhetoric  --
+   - -----
+   - arithmetic 
+   - music
+   - geometry
+   - astronomy
+
+ - Utilitarian Arts
+ - Fine Arts
+
+
+Life is a tightrope walk, balancing between /doing/ and /knowing/.
+
+The path to mastery begins with small steps you learn how to do
+something and then learn about it in increasing depth -- theory comes
+after you've gotten down the basics.
+
+Modern higher education doesn't do that -- it put's theory first and
+then building skills second.  The problem is that this means that
+learning is an act of faith, because learning theory without context
+is frustrating and feels pointless.  You don't feeling like you are
+learning anything useful.  And in practice, by the time you do
+graduate and then aquire the skills that theory is supposed to be
+based on, you've lost the thread and have forgotten most of the theory.
+
+This makes some sense when learning is something that happens when you
+are young and takes place in a continuous block of time before you
+enter the workplace.  It's still ass backwards but I get it.
 
 
 
