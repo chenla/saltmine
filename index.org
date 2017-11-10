@@ -102,14 +102,14 @@ Lay it out:
   the alt-coin folks think it will.  The chain is slow and
   expensive.
 
-Causal chains will get very complex, very quickly -- once
-the system hits a critical number of items and transactions,
-the causal chains will be extremely difficult to fake.  As
-objects move through the system it builds up a causal
+Causal chains get very complex, very quickly -- once the
+system hits a critical number of items and transactions, the
+causal chains will be extremely difficult to fake.  As
+objects move through the system they build up a causal
 chain.  Verifying that the chain has not been compromised,
 could happen on a system level.  The more transactions that
 happen without incident, the higher the reputation of the
-role making the tansaction.  
+role making the tansaction.
 
 This could then be backed by an organization who guarantee
 transactions.  Yes, that is a credit system like Visa.  But
