@@ -1,28 +1,30 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Stack: ePub3
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :CUSTOM_ID: 
-  :Name:      /home/deerpig/proj/chenla/saltmine/saltmine-epub3.org
-  :Created:   2017-05-26T17:23@Prek Leap (11.642600N-104.919210W)
-  :ID:        34cf1b0f-1cb7-4b68-90a9-6d31b6273053
-  :VER:       549066269.667742187
-  :GEO:       48P-491193-1287029-15
-  :BXID:      proj:EFT4-7767
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/saltmine/saltmine-epub3.org
+:Created:   2017-11-10T19:01@Prek Leap (11.642600N-104.919210W)
+:ID:        34cf1b0f-1cb7-4b68-90a9-6d31b6273053
+:VER:       549066269.667742187
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:YCI4-7630
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+ 
 * Introduction
 
   - [[https://github.com/futurepress/epub.js/][futurepress/epub.js]]  Enhanced eBooks in the browser | Github
