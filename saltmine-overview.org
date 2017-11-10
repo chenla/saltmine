@@ -23,7 +23,7 @@
 
 #+TOC: headlines 4
 
-* Introduction
+* Overview
 
 
 Saltmine is a software stack designed to provide an ITC
@@ -247,7 +247,20 @@ memory -- this would help correct memory drift over long
 periods of time.
 
 
--------
+** faceted search interface
+
+I think we will have the opportunity to try some very
+interesting things with the saltmine search interface.
+
+rather than typing in search strings, as you type,
+autocomplete will pull up terms, places, people etc and as
+you choose them, they used to build up a facet string --
+that then constructs results made up of scope and micro
+notes.
+
+It would be cool to use a helm-like interface for this,
+and see if we can take the helm and anything interface to
+the next level.
 
 
 
