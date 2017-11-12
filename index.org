@@ -31,7 +31,7 @@
    - blockchain
    - graph database
    - org-mode
-   - search interface
+   - [[./saltmine-search.org][search]]
 
  - [[saltmine.org]] (literate program)
 
