@@ -27,3 +27,14 @@
 
 * Introduction
 
+  
+  - [[https://blog.kabir.ml/posts/inside-wade][Inside Wade]] | Kabir Shah  js search library
+
+  - [[https://nlp.stanford.edu/IR-book/][Introduction to Information Retrieval]] | Christopher Manning (book) 
+  - [[bib:ingersoll:2013taming][Taming Text: How to Find, Organize, and Manipulate It]] | Grant
+    Ingersoll (2013)
+  - [[https://en.wikipedia.org/wiki/Inverted_index][Inverted index]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Tf%E2%80%93idf][tf–idf]] |Wikipedia
+  - [[https://en.wikipedia.org/wiki/Trie][Trie]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Deterministic_acyclic_finite_state_automaton][Deterministic acyclic finite state automaton]] | Wikipedia
+  - [[https://en.wikipedia.org/wiki/Okapi_BM25][Okapi BM25]] | Wikipedia
