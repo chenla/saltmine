@@ -198,3 +198,105 @@ inspection and certifican.
 A guild must be distributed, so that any one guild can not become a
 monolithic organization.  This will make it possible to police guild
 chapters who stray or go rogue.
+
+* Shops
+
+A shop is a place where work is done that is part of the network.
+Shops can be commerical or non-commercial.  They can produce physical
+goods or ideas.
+
+You can't separate learning and research from work, the three are
+different aspects of the same thing.
+
+Guilds overlap with shops since members of shops are guild members,
+and guilds train people who work in shops, guilds help keep shops
+honest, but shops make guilds possible.
+
+* Polity
+
+There are nations, states and nation-states that combine the two.
+
+A state is first and foremost a physical territory with a legible
+border and population.
+
+States have infrastructure which is divided into two parts.  The first
+is physical things like roads, electrical grids, water and sewage
+systems, communication and railway networks, airports etc.  The second
+are made up of services which are provided by institutions such as
+police forces, armed forces, legal systems, banks, legislature and 
+executive bodies, courts, libraries, hospitals, schools etc.
+
+States are all about organizing people and physical things to produce
+a surplus of wealth (in the form of goods, food etc) that can then be
+used to pay for a ruling class, and specializations which are not
+directly related to day to day survival.  The surplus that the state
+collects to pay for services and the ruling class is a tax.  No taxes
+and there is no state.  But does that mean that if there are no taxes
+there are no services?  Some believe that all services can be satisfied
+by an open competitive commercial market.  This is clearly not the
+case.
+
+There are all sorts of services provided by states which are terrible
+at turning a profit.  Not all public needs can be met by markets.  By
+the same token states are terrible at providing many services as well.
+The problem is that states don't scale very well.  Humans seem to do
+well in communities up to about 5,000 people in size and after that
+hierarchical organization begin to errode the the quality of life,
+liberty and freedom of many individuals and create wealth imbalances.
+
+Is is possible to build an advanced technological civilization without
+states?
+
+To do so we need to:
+
+  - keep local polities at or under 5,000 people.
+  - provide physical infrastructure -- maintained roads, electricity,
+    water, fuel, communications and waste management.
+  - provide institutional services such as libraries, education, legal,
+    enforcement, and commerce systems.
+  - interconnect local polities with neighboring polities and ensure
+    that any polity will be be able to interact with any other polity
+    according to the same rules.
+  - ensure freedom of expression, speech, and movement.
+
+The problem is that the planet is not homogenous -- different places
+have access to different kinds of resources.  Ensuring that this does
+not result in power imbalances that screw things up is difficult.
+
+Blockchain technology provides a mechanism for trustless networks to
+take over many institutional services where transactions are taking
+place between parties who are more than a single hop from each other.
+
+No one can do everything alone, that's the fatal flaw that preppers
+and homesteaders don't get until it's too late.  Its impractical for
+most people to generate all of their own electricity, some or even
+maybe most of it yes, but all, but for most places it's neither easy
+or economical.
+
+So let's look at structures larger than a 5K person polity.  Polities
+can behave as parts of larger urban centers -- so a large city is just
+a bunch of polities that are packed tightly together.
+
+We can also group polities into bioregions -- that helps because they
+will share the same climate, ecosystem, culture, language etc so it
+won't be too difficult to establish an equitible egalitarian systems
+for polities to interact and cooperate with each other.
+
+There will be some very significant disparities between different
+bioregions though in terms of population, agricultural production,
+heating and cooling, rainfall etc.  I do think that on the whole, we
+can get to the point where almost all bioregions can juggle things to
+provide basic physical infrastructure and a majority of food produced
+within the bioregion.  Shortfalls in one thing or another can be made
+up by increasing production of what is easy to produce a surplus of
+and trade with other bioregions.  This is classical economic theory.
+
+But it's important that no polity or bioregion becomes too specialized
+-- if every polity can produce 40% of their own core needs themselves
+with the bioregion providing another 40%, the bioregion only needs to
+trade for the last 20%.
+
+That will take a huge amount of pressure off any one polity or
+bioregion and reduce competition and wealth imbalances?  I'm not sure
+that follows but it's something to think about.
+
