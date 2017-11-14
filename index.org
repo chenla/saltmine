@@ -33,6 +33,8 @@
    - org-mode
    - [[./saltmine-search.org][search]]
 
+   - [[./saltmine-laurea.org][Lourea]]
+
  - [[saltmine.org]] (literate program)
 
 ----
