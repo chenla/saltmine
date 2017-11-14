@@ -267,6 +267,10 @@ Blockchain technology provides a mechanism for trustless networks to
 take over many institutional services where transactions are taking
 place between parties who are more than a single hop from each other.
 
+We can automate large parts of supply and value chains -- if everyone
+is basically using the same network and playing by the same rules a
+lot of middlemen charging rents are eliminated.
+
 No one can do everything alone, that's the fatal flaw that preppers
 and homesteaders don't get until it's too late.  Its impractical for
 most people to generate all of their own electricity, some or even
@@ -300,3 +304,30 @@ That will take a huge amount of pressure off any one polity or
 bioregion and reduce competition and wealth imbalances?  I'm not sure
 that follows but it's something to think about.
 
+There are some things that are still missing.  Heavy industry that
+doesn't work well at small scales, and very large scale products that
+can't be done by small communities.  Building a 747, or a container
+ship, spaceships or a suspension bridge are things that require large
+investment of capital, manpower and resources.
+
+There are scientific and research projects that requires huge
+resources -- how could we finance something like the Large Hadron
+Collider?
+
+My feeling is that these things could be financed by the network
+itself -- the network will be taking a percentage of transactions to
+finance itself, so it makes sense for some of that money to be used
+for large scale projects.
+
+The next problem is large scale coordination -- disaster relief, large
+scale dislocation of populations, and working out what projects will
+be done when and where.
+
+We would need something like a world organization made up of
+bioregions who could set priorities and coordinate projects, mediate
+disputes between bioregions.  Again, since bioregions will be largely
+self supporting, there won't be as much pressure for any one bioregion
+to grab more than their share.  Funds can be set up for disaster
+relief, and money pooled to provide large scale infrastructure loans
+for things that would be difficult for a single bioregion to finance
+themselves.
