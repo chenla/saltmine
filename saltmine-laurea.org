@@ -25,5 +25,100 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
-* Introduction
+* Liberal Arts & Sciences
 
+  - Trivium :: tools of the mind
+    - grammer   :: symbols
+    - logic     :: thinking
+    - rhetoric  :: communication
+
+  - Quadrivium :: theory of information as matter, energy, space/time
+
+    - Cosmos      :: theory of context
+      - mimesis   :: maps/models
+      - rhizomata :: structures
+      - systema   :: systems 
+      - transacta :: processes
+
+    - Techne : application of context
+
+      Techne teach broad core skills and knowledge that all advanced
+      study is based on.  A given Techne is the closest thing to a
+      traditional school subject.  But they are not the same.  All
+      seven /subjects/ are taught in a cross disciplinary way, so that
+      when you are learning about classical newtonian mechanics in
+      /physics/, you are learning about Issac Newton in /history/ and
+      how to caluculate and compute it in /math/.  And taken together,
+      all techne are understood to belong to the larger context
+      learned in /Cosmos/.  The techne add breadth and depth to the
+      /cosmos/.
+
+      - Math
+      - Chemistry
+      - Biology
+      - Physics
+      - Literature
+      - History
+      - Philosophy
+
+  - Laurea :: saturation job -- a doctor -- equiv to PhD
+    The Laurea is meant to be repeated several times over a long life
+    in different subjects and disciplines.  It uses the toolbox and
+    core knowledge aquired in the Trivium and Quadrivium to master a
+    subject to the point where a person can practice as a professional
+    and contribute original work to their field.
+
+    One may take many different practicums over a lifetime but few
+    people will do more than one Laurea.  
+
+  - Laurea Magister :: a second /cycle/ degree program undertaken
+    after the Laurea in fields such as Engineering, Medicine, Law,
+    Architecture etc.
+
+  - Laurea Practicum :: is a degree program for training in a
+    specialized field after one has completed a Laurea, and Laurea
+    Magister.
+
+  - Practicum :: teaches practical specialized skills and acts as a
+    professional qualification, the practicum is a course of study to
+    aquire skills of a practical nature in the workplace.  Practicums
+    are relatively short (six months to 2 years), and are meant to be
+    done along side the Quadrivium and Laurea.  This allows people to
+    apply knowledge form the quadrivium and laurea to the real world
+    and earn a living doing so.  Most Practicums are utilitarian in
+    nature, but they also include technical, theory and fine arts.  So
+    a Practicum can be anything from teaching primary school, welding,
+    nursing, woodworking, dance, music (learning to play an
+    instrument, music theory is studied in a Laurea), programing,
+    design etc.
+
+    It's important to understand that a Pacticum is more than a
+    vocational training or certificate training, it builds on the
+    skills aquired from the Trivium, Quadrivium and Laurea.
+
+    A Laurea is not enough to qualify to practice a given profession,
+    but a Laurea gives the skills needed to apply the skills learned
+    in a Practicum to do so.  It is common to take two or more
+    Practicums during and after completing a Laurea to qualify in a
+    field.
+
+    As professions evolve over time it's expected for all practicing
+    professionals to continue to take various practicums to stay
+    current in a field.
+
+  - Master/Magister :: 
+    The highest title that can be bestowed.  A Laurea is the
+    equivilent to a PhD which means a person is qualified to practice, 
+    but a Master has practiced his art and science long enough to
+    produce an original work that furthers knowledge in a significant 
+    way.  This doesn't mean a master has to win a nobel prize, but it
+    does set them apart from a PhD, as a person who is experienced and
+    practiced to the point where they can teach others at the PhD
+    level.  The only thing needed to become a Master is for the Guild
+    they belong to, to declare that a work or works that a PhD has 
+    completed qualifies as a Master work.
+
+    I'm not sure that this is something that you really formally apply 
+    for, or if the work done by PhD's in a Guild are monitored by the
+    Guild and when the Guild deems work worthy of a Master, the title 
+    is given.
