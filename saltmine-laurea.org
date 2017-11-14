@@ -27,12 +27,14 @@
 
 * Liberal Arts & Sciences
 
-  - Trivium :: tools of the mind
+  - Trivium :: 3-4 years (typically begun age 11)
     - grammer   :: symbols
     - logic     :: thinking
     - rhetoric  :: communication
 
-  - Quadrivium :: theory of information as matter, energy, space/time
+  - Quadrivium :: 3-4 years
+
+    theory of information as matter, energy, space/time
 
     - Cosmos      :: theory of context
       - mimesis   :: maps/models
@@ -45,7 +47,7 @@
       Techne teach broad core skills and knowledge that all advanced
       study is based on.  A given Techne is the closest thing to a
       traditional school subject.  But they are not the same.  All
-      seven /subjects/ are taught in a cross disciplinary way, so that
+      eight /subjects/ are taught in a cross disciplinary way, so that
       when you are learning about classical newtonian mechanics in
       /physics/, you are learning about Issac Newton in /history/ and
       how to caluculate and compute it in /math/.  And taken together,
@@ -54,22 +56,57 @@
       /cosmos/.
 
       - Math
+      - Computation
+      - Physics
       - Chemistry
       - Biology
-      - Physics
-      - Literature
       - History
-      - Philosophy
+      - Literature
+      - Philosophy :: not the same as the history of philosophy
 
-  - Laurea :: saturation job -- a doctor -- equiv to PhD
-    The Laurea is meant to be repeated several times over a long life
-    in different subjects and disciplines.  It uses the toolbox and
-    core knowledge aquired in the Trivium and Quadrivium to master a
-    subject to the point where a person can practice as a professional
-    and contribute original work to their field.
+      Though the completion of the Trivium and Quadrivium is usually
+      complete by the time a student is 18 years old, it is the
+      equivilant of a bachelor's degree in liberal arts which is a
+      foundation for all other study.  To modern ears this sounds
+      strange and unrealistic.  But this is only because modern
+      educational systems are not designed to send people to
+      university, but to provide minimal literate and arithmatic
+      skills that were required in factories and entry level offices
+      in large companies.  These are mass skills required for an
+      mechanical, industrial civilization based on the assembly line.
+      The traditional liberal arts prepares the mind for higher level
+      studies, so students who have completed the Trivium are far
+      better prepared to undertake undergraduate level studies instead
+      of the watered down secondary school studies that have to be
+      repeated in more depth in the first years of university.
+
+      Those who choose to continue in advanced studies will then take
+      the Laurea.  Those who do not can then take Practicums for a
+      given profession.  A person who wants to become a baker or
+      woodworker could then take practicums in those subjects and be
+      done with it.  There is no reason for a baker not to take the
+      Laurea as well.  In fact, for a baker or woodworker to be given
+      the rank of /master/ by their guild, they will have had to
+      complete the Laurea.
+
+  - Laurea : 3-6 years
+
+    The Laurea teaches how to integrate everything learned in the
+    Trivium and Quadrivium into a larger and deeper understanding of
+    the world and provides practical research, learning and analytical
+    skills in applying that knowledge to do or learn anything in life.
 
     One may take many different practicums over a lifetime but few
     people will do more than one Laurea.  
+
+    The Laurea is a saturation job to learn as much as can be learned
+    about a very specific subject and to present what is learned in a
+    scholarly work.  This requires that a student undertakes in depth
+    study in different aspects relating to the subject they are
+    saturating themselves in.  This means that they may have to take
+    any number of practicums to learn to read or speak one or more
+    foreign languages, undertake studies in specialized fields of
+    mathematics, history and philosophical inquiry.
 
   - Laurea Magister :: a second /cycle/ degree program undertaken
     after the Laurea in fields such as Engineering, Medicine, Law,
