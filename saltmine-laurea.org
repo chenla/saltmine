@@ -160,6 +160,28 @@
     Guild and when the Guild deems work worthy of a Master, the title 
     is given.
 
+** Examples
+
+If someone wants to become a representative for a polity or bioregion
+they need to have completed a Laurea and a Laurea Practicum in
+governance, which includes a thorough grounding in ethics, diplomacy,
+political history, management, leadership, as well as legal, economic
+and statistical theory.  They will already have a solid foundation in
+logic and rhetoric, but these areas will be reinforced by the study
+program which is, afterall, training people to think critically,
+engage with and negotiate (and compromise) with others and communicate
+effectively with those they represent.
+
+All representitives and diplomats must belong to the Ethics Guild as
+well as a Guild of Representives or Diplomats in good standing.  If a
+representitive is found guilty of unethical behavior by the Guild they
+can be expelled from the Guild which would bar that person from
+holding office.  So this would work something like the Bar or Medical
+Association that grants licences for practicing.  They also have an
+obligation to remove those who engage in unethical behavior.
+
+
+
 * Guilds
 
 The term /guild/ has more than a little baggage.  Historically, guilds
