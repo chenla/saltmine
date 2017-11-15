@@ -25,6 +25,22 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+* Education
+
+Learning is a kind of research and vice versa.  In both cases the goal
+is to aquire and integrate new knowledge.  So academic and scientific
+inquiry is functionally the same thing, but different methods are
+employed.  Learning can be diadactic instruction to learn what has
+already been discovered by others, or scientific which poses
+propsitions and questions then endevours to collect information that
+is then tested to prove or disprove the validity of the propasition or
+the answer to the question.
+
+This is why so much research is conducted at universities. The whole
+purpose of a university is to help people to master what is known, and
+to give them the intellectual tools needed to conduct research to
+further what is known.
+
 * Liberal Arts & Sciences
 
   - Trivium :: 3-4 years (typically begun age 11)
@@ -363,3 +379,15 @@ to grab more than their share.  Funds can be set up for disaster
 relief, and money pooled to provide large scale infrastructure loans
 for things that would be difficult for a single bioregion to finance
 themselves.
+
+** Educational shops and universities as polities
+
+Would it be possible for a politiy to actually be a university in it's
+own right?  Large campuses are pretty much self-contained towns
+already, and a large university in an urban environment is certaintly
+a kind of neighborhood.  This would provide the university with the
+political means to seek funding for research facilities and for large
+projects.
+
+An educational shop might focus on pre-school, or teaching the trivium
+to children in a bioregion.
