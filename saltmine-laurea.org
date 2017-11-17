@@ -380,7 +380,7 @@ relief, and money pooled to provide large scale infrastructure loans
 for things that would be difficult for a single bioregion to finance
 themselves.
 
-** Educational shops and universities as polities
+** Educational Shops and Universities as Polities
 
 Would it be possible for a politiy to actually be a university in it's
 own right?  Large campuses are pretty much self-contained towns
@@ -391,3 +391,64 @@ projects.
 
 An educational shop might focus on pre-school, or teaching the trivium
 to children in a bioregion.
+
+
+* Voyage of the Beagle  :work:
+:PROPERTIES:
+
+:META:
+:ENTITY-TYPE: work
+:TYPE:        book 
+:ID:          :ID:       589d75c9-1f57-4a96-b1b3-f20f948b21c2
+:AUTHOR:      Ondaatje, Michael
+:TITLE:       "The English Patient (French)", "Le patient anglais"
+:LANG:        French
+:end:
+
+** Voyage of the Beagle :exp:
+
+:PROPERTIES:
+:ENTITY-TYPE: expression
+:ID:          da28ba29-95f0-4f36-9d0b-cce91ce91884
+:AUTHOR:      Ondaatje, Michael (1943- )
+:END:
+
+:TREE:
+:TT:          589d75c9-1f57-4a96-b1b3-f20f948b21c2
+:
+:END:
+
+
+
+*** Voyage of the Beagle :man:
+:PROPERTIES:
+:ID:          0e405d3a-71d2-460c-81e8-4fd4426b4c4f
+:ENTITY-TYPE: manifestation
+
+:END:
+
+
+
+
+
+ #+begin_comment
+The download page from PG is the manifestation url
+ #+end_comment
+
+
+**** Voyage of the Beagle :item:
+#+begin_comment
+The link to the actual file is the url
+#+end_comment
+
+:tree:
+:end:
+
+:meta:
+:type:     resource
+:local-id: PG:944
+:size:
+:checksum:  
+:end:
+
+ - main: http://www.gutenberg.org/files/944/944.txt
