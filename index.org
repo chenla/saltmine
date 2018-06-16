@@ -1,6 +1,6 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
-#+TITLE:   Saltmine | TOC
+#+TITLE:   Saltmine Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:      /home/deerpig/proj/chenla/saltmine/index.org
@@ -15,12 +15,17 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Saltmine | Table of Contents
+* Saltmine Contents
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+ - Contents
+ - Abstract
+ - Introduction 
+
 
  - Functional Requirements
 
