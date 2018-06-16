@@ -33,7 +33,69 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** Scope
 
-
-
 ** TL;DR
 
+
+We describe Saltmine as a slow AI, but it might better be
+described as a machine-understandable extension and
+externalization for both human and machine cognitive
+processes and memory.
+
+Humans are constrained by memory limitations that determine
+how much we can keep in working memory and how and what we
+can keep in long term memmory.  We use spoken languages and
+written languages to overcome and extend and externalize
+memory.
+
+AIs will have their own limitations.  They may exceed or
+language and processing limits, but they will need to be
+able to talk to each other and to humans.  They will need to
+archive what they are thinking about, as well as backup
+running processes.  They will need to outsource tasks to
+other AIs and humans to do things that they can not do.
+
+So we need:
+
+  - an interoperability layer between human-to-AI,
+    human-to-human and ai-to-ai.
+  - a means of externalizing an AI's memory in a format that
+    is human readable.
+  - a means of externalizing human memory (as well as that
+    of organizations) in a format that is machine
+    undestandable.
+  - a means of providing rules and definitions that both
+    humans and machines can understand.
+  - a means of defining processes that are broken into steps
+    that can be completed by any combination of humans or
+    machines.
+
+We call this slow AI because this exteralized collection of
+recorded information, documents, rules, data and processes
+is very similar to a corporation, government or even a
+scientific or community paradigm.  Both require detailed
+sets persistent memory and intent that can be communicated
+to others, and to pass on to future generations.  Both
+require collective agreed on definitions and rules to make
+communication and cooperation possible.  Both need to be
+able to act semi-autonomously and hire people to do physical
+and mental tasks for them.  Both are able to exist across
+multiple generations of human lifetimes and even centuries
+and milennia.
+
+A slow AI needs not always exist as running code in a
+machine.  It can operate on paper, so long as it has the
+resources to appoint people and AIs to do things on it's
+behalf.
+
+BMF-Saltmine is an infrastructure for providing these
+functions to provide an extension and externalization of
+human and machine mind and memory.
+
+In many respects this can be thought of as the next step for
+the World Wide Web.  And just like the Web, this needs to be
+an open, decentralized system that is not controlled by any
+one group.  The web can not provide any of the functions
+listed above as it stands.  Different functions are now
+provided as private or external code, services and
+technologies that have made it possible for monopolies to
+emerge that have  
