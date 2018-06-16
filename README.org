@@ -27,3 +27,9 @@ deploy the code for the saltmine platform.
 
 At present technical specifications used for Saltmine can be found in
 the BMF repository.
+
+--- 
+
+*NOTE*: The primary repo is @ [[http://git.chenla.org/hoard/saltmine]] 
+Please submit pull requests and issues there.  A read
+only-mirror is maintained @ [[https://github.com/chenla/saltmine]]
