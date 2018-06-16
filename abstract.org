@@ -1,0 +1,39 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Saltmine Abstract
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-w & w-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Saltmine Abstract
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/saltmine/abstract.org
+  :Created:   2018-06-16T12:11@Prek Leap (11.642600N-104.919210W)
+  :ID:        8734383b-7efe-4026-8a0d-1728e3f24f8b
+  :VER:       582397967.668967564
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:UVF7-2023
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+** Scope
+
+
+
+** TL;DR
+
