@@ -1,0 +1,38 @@
+#   -*- mode: org; fill-column: 60 -*-
+
+#+TITLE: Saltmine Introduction
+#+STARTUP: showall
+#+TOC: headlines 4
+#+PROPERTY: filename
+#+LINK: pdf   pdfview:~/proj/chenla/hoard/lib/
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-deploy-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+bibliography:~/proj/chenla/hoard/bib.bib
+
+[[[../../index.org][top]]] [[[../index.org][up]]]
+
+* Saltmine Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/saltmine/intro.org
+  :Created:   2018-06-16T12:12@Prek Leap (11.642600N-104.919210W)
+  :ID:        de61b08b-ea71-431c-9774-80c576a15094
+  :VER:       582397992.698235795
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:DNL6-3301
+  :Class:     primer
+  :Type:      work
+  :Status:    wip
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
+
+
+
+** References
+
+
