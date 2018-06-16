@@ -23,8 +23,8 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
  - Contents
- - Abstract
- - Introduction 
+ - [[./abstract.org][Abstract]]
+ - [[./intro.org][Introduction]] 
 
 
  - Functional Requirements
