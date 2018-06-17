@@ -98,4 +98,142 @@ one group.  The web can not provide any of the functions
 listed above as it stands.  Different functions are now
 provided as private or external code, services and
 technologies that have made it possible for monopolies to
-emerge that have  
+emerge that now dominate the industry.
+
+Deep-learning and machine-learning systems are already
+availble as a service from Amazon AWS and Google.  This
+makes is possible to roll your own AI and run it in their
+clouds.
+
+Eventually BMF-Saltmine will make it possible to design an
+AI for a particular purpose, define what it will do, what
+constraints it will have to do it in, and how it will
+interact with other AIs and humans spin up and instance, and
+when it's finished, shut it down.  There will be no single
+monolithic all-encompassing AI doing everything.  The human
+brain is made up of a number of different parts doing
+differet things.  It's an illusion that our minds are a
+single seamless consciousness.  AIs are no different in that
+respect, but are different in that we have control over
+which parts will be needed to complete different tasks.  And
+that different configurations will be used to do different
+tasks at different times.
+
+We will need countless numbers of different specialized AIs
+just like a large company needs thousands of different
+employees.  AIs will be specialized. Some AIs will be
+defined and spun up to do a job and then shut down and
+erased.  Others might run days, years or even decades.
+
+BMF-Saltmine will provide the infrastructure that brings
+together human mind and memory, machine cognitive machines,
+mechanical machines under human and machine-cognitive
+control.
+
+The real danger of AI is very different from what is
+commonly described in the press.  Lee Kai-Fu described a far
+more immediate and dangerous future:
+
+  As we think about all the benefits from AI, there are a
+  number of issues one needs to be concerned about. One
+  issue, as I talked about, was the job losses and how to
+  deal with that. Another issue is the haves and have
+  nots. The people who are inventing these AI algorithms,
+  building AI companies, they will become the haves. The
+  people whose jobs are replaced will be the have nots. And
+  the gap between them, whether it’s in wealth or power,
+  will be dramatic, and will be perhaps the largest that
+  mankind has ever experienced.
+
+  Similarly, the companies that have AI and the companies
+  that are traditional and slow to shift will have large
+  gaps as well. Lastly, and perhaps most difficult to solve,
+  is the gap between countries. The countries that have AI
+  technology will be much better off. They’ll be creating
+  and extracting value. The countries that have large
+  populations of users whose data is gathered and iterated
+  through the AI algorithm, they’ll be in good shape. The US
+  and China are in good shape.
+
+  The countries that are not in good shape are the countries
+  that have perhaps a large population, but no AI, no
+  technologies, no Google, no Tencent, no Baidu, no Alibaba,
+  no Facebook, no Amazon. These people will basically be
+  data points to countries whose software is dominant in
+  their country. If a country in Africa uses largely
+  Facebook and Google, they will be providing their data to
+  help Facebook and Google make more money, but their jobs
+  will still be replaced nevertheless.
+
+  Think about a situation in the US or China, where all the
+  AI companies will take all the data, make so much
+  money. People would be displaced, but potentially we can
+  imagine the government redistributing that wealth from the
+  people who made it, perhaps as a tax, and distributing to
+  those who have not, perhaps as UBI or some variant. The US
+  and China are okay. But think about another country. They
+  have only the displaced and not the creative, or mostly
+  the displaced and very few valuable companies. Where will
+  the tax be to take the money to give to the displaced?
+  That’s the big issue.
+
+  With the US and China being very powerful in terms of
+  their AI technologies, the companies that benefit from the
+  data, and having a lot of data from their own countries
+  and other countries, they will be very well off. Other
+  countries will be in a difficult position. We’re seeing
+  Europe put into some challenges based on this issue. Their
+  choice of response was to enforce antitrust laws on
+  American companies as a way to collect money from
+  them. That surely is not a sustainable approach. There
+  will be poorer countries in developing and underdeveloped
+  worlds who used to have an ambition and aspiration to,
+  like China, use lower cost labor to win business in
+  manufacturing, and eventually get on to the developed
+  county path. That dream is probably no longer
+  feasible. The low cost labor in a country that may have
+  propelled China from a poor country to a relatively
+  wealthy country, that formula is no longer available
+  because AI and robots will be doing the manufacturing and
+  the labor work.
+
+  The large population that was China’s asset to its rise
+  will become a liability to many countries. The larger the
+  population, the worse off you are, unless that population
+  has a significant enough percentage that can create value,
+  can build AI, can build companies, and can make
+  money. This global geopolitical future is very worrisome
+  because you might have some countries with no choice but
+  to become a vassal state to the US or China: You got my
+  data, I will do what you want, and you help me feed the
+  poor people. That would be one very direct way to describe
+  a very worrisome outcome.
+
+  — Lee Kai-Fu, Interview (2018-3-26) Edge.org
+    https://www.edge.org/conversation/kai_fu_lee-we-are-here-to-create
+
+This new world order is certainly possible but far from
+inevitable at this time.  We still don't know the form that
+this future will take.  We need to build a future for
+everyone, not just in a handful of powerful economies.
+
+Dr. Lee didn't mention what will be the largest impact of AI
+and robotic automation.  Throughout history, every major
+disruptive technological advance that resulted in a
+"revolution" fundementally altered power structures and for
+a while the new technology breaks up existing power
+structures and moves power to the edge.  This has the knock on
+effect of transformaing all aspects of human existance, the
+way we provide food, shelter, education, forms of governance
+and even restructures family and social structures.  This
+revolution will be no different and will likely result in
+far greater changes than the Agricultural and Industrial
+Revolutions combined.
+
+I think it was Vint Cerf who said that the best way to
+predict the future is to invent it.  BMF-Saltmine, together
+with the larger social and technical framework we are
+outlining in The Warp & Woof is our answer to helping to
+make the form of what is now inevitable take a form that
+will ensure the well-being of as many people as possible, no
+matter where you are or how rich or how poor you may be.
