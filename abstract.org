@@ -35,7 +35,6 @@ bibliography:~/proj/chenla/hoard/bib.bib
 
 ** TL;DR
 
-
 We describe Saltmine as a slow AI, but it might better be
 described as a machine-understandable extension and
 externalization for both human and machine cognitive
